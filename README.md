@@ -1,4 +1,4 @@
-yii1_tests
+#yii1_tests
 
 yii1_tests.sql - db dump
 
